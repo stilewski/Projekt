@@ -3,5 +3,6 @@
 
 int main()
 {
+	cout << "test";
 	return 0;
 }
