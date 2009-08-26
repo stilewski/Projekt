@@ -3,6 +3,6 @@
 
 int main()
 {
-	cout << "test";
+	cout << "test" << endl;
 	return 0;
 }
